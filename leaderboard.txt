@@ -1,0 +1,22 @@
+[
+  {"name": "Nguyễn Văn A", "avg_time": 42.5},
+  {"name": "Trần Thị B", "avg_time": 48.3},
+  {"name": "Lê Hoàng C", "avg_time": 52.7},
+  {"name": "Phạm Minh D", "avg_time": 58.2},
+  {"name": "Đỗ Thanh E", "avg_time": 61.5},
+  {"name": "Võ Hải F", "avg_time": 65.8},
+  {"name": "Bùi Kiên G", "avg_time": 71.3},
+  {"name": "Dương Anh H", "avg_time": 75.6},
+  {"name": "Hồ Quang I", "avg_time": 82.1},
+  {"name": "Mạc Long J", "avg_time": 88.4},
+  {"name": "Ngô Tú K", "avg_time": 92.7},
+  {"name": "Phan Sơn L", "avg_time": 98.2},
+  {"name": "Vũ Việt M", "avg_time": 105.5},
+  {"name": "Tô Hữu N", "avg_time": 112.3},
+  {"name": "Ưu Tú O", "avg_time": 118.9},
+  {"name": "Xâm Lâm P", "avg_time": 125.1},
+  {"name": "Yên Bình Q", "avg_time": 132.4},
+  {"name": "Zalo Năng R", "avg_time": 139.7},
+  {"name": "An Tâm S", "avg_time": 145.2},
+  {"name": "Bảo Ngọc T", "avg_time": 152.8}
+]
