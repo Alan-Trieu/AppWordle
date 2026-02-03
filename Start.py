@@ -39,6 +39,8 @@ class MakeButton:
             pygame.draw.circle(self.surface, WOOD_LIGHT, radius)
 
         # top-20 list
+        pygame.draw.rect(self.surface, WOOD_LIGHT, (350, 80, 400, 300), border_radius = 15)
+        pygame.draw.rect(self.surface, WOOD_DARK, (350, 80, 400, 300), width = 5, border_radius = 15)
 
     def on_execute(self):
         if self.on_init() == False:
